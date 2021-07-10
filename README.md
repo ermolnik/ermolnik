@@ -18,7 +18,7 @@
 
 
 ## 📝 How to access my blog post
-<img src="https://amorev.ru/wp-content/uploads/2020/05/unnamed-file.png" width="100" height="100" url="(https://habr.com/ru/users/ermolnik/)"/>
+<img src="https://amorev.ru/wp-content/uploads/2020/05/unnamed-file.png" width="100" height="100" url="(https://habr.com/ru/users/ermolnik)"/>
 
 ## 📫 How to reach me
 
