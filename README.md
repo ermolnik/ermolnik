@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Ermolaev Sergei**, I'm an  Head of Mobile 📱 at Sber   from Russia 🇷🇺 <br>
+✨ My name is **Ermolaev Sergei**, I'm an  Head of Mobile
 
 
 ## 📌 GitHub Stats and Top Languages
