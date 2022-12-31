@@ -1,6 +1,7 @@
 # Hello World! 👋
 
 ✨ My name is **Ermolaev Sergei**, I'm an  Head of Mobile
+You can read my artricles on the telegram https://t.me/se_development
 
 
 ## 📌 GitHub Stats and Top Languages
